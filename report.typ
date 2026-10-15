@@ -17,7 +17,7 @@
 //   hyperref (linkcolor=black,urlcolor=blue)   show link: it => ...
 //   \ref -> только номер                       show ref: set ref(supplement: none)
 //   itemize/enumerate                          set list(marker:), set enum(numbering:)
-//   booktabs                                   set table(stroke: none) + table.hline
+//   Таблицы                                    сетка границ ячеек
 //   caption                                    figure(caption: ..) (локализуется: «Рис.», «Таблица»)
 //   minted                                     raw с указанием языка
 //   \tableofcontents                           outline(title: [Содержание])
@@ -116,8 +116,8 @@
   set list(marker: ([•], [–], [∗]))
   set enum(numbering: "1.")
 
-  // ── booktabs: линейки задаются явно через table.hline ──────────────────────
-  set table(stroke: none, inset: (x: 6pt, y: 4pt))
+  // ── Таблицы: границы всех строк и столбцов ────────────────────────────────
+  set table(stroke: 0.45pt + luma(100), inset: (x: 6pt, y: 4pt))
 
   // ── minted: моноширинный код ───────────────────────────────────────────────
   show raw: set text(font: mono-fonts, size: 0.9em)
