@@ -143,8 +143,10 @@ Mailbox `kodru@youtrack.cloud` маршрутизирует входящие п�
 
 Смоделированы статусы карточек и пять work items: 120 ч для требований, 80 ч для backlog, 40 ч для архитектуры, 60 ч для CI/CD и 100 ч для модели CMS. Время добавлялось администратором для лабораторной симуляции. Всего списано 400 ч; Time Report содержит 4 100 ч оценок на пяти задачах с записями времени. Типы отчётов по времени и календарному плану описаны в руководстве YouTrack [#link("https://www.jetbrains.com/help/youtrack/cloud/youtrack-reports.html")[4]-#link("https://www.jetbrains.com/help/youtrack/cloud/gantt-chart.html")[6]].
 
+Burndown приведён только для Sprint 01: интервалы S02-S13 запланированы, но их история выполнения не моделировалась. Стартовая оценка S01 - 900 ч на три задачи. Это на 17% выше среднего ориентира 769 ч (10 000 / 13) на спринт и не является оценкой доступной ёмкости команды.
+
 #figure(image("output/pdf/youtrack-lab-figures/assignees.svg", width: 100%), caption: [Количество задач по исполнителям])
-#figure(image("output/pdf/youtrack-lab-figures/burndown.svg", width: 100%), caption: [Sprint 01: оценка 900 ч, два закрытых issue на 600 ч, остаток 300 ч])
+#figure(image("output/pdf/youtrack-lab-figures/burndown.svg", width: 100%), caption: [Sprint 01: 3 задачи на 900 ч; на срезе 27.10.2026 две закрыты (600 ч), остаток 300 ч; позднейшие события не моделировались])
 #figure(image("output/pdf/youtrack-lab-figures/time-report.svg", width: 100%), caption: [Оценка и записанное время по исполнителям])
 
 = Диаграмма Ганта и выводы
