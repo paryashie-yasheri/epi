@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="205" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 205" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="205"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-205)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="193" style="font-family: YT-Bold; font-size: 10px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,386) scale(1,-1)">Оценка по этапам проекта, чел.-ч</text>
+			<text x="0" y="174" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,348) scale(1,-1)">Требования MVP, UX и архитектура</text>
+			<rect x="190" y="168" width="101.25" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="296.25" y="172" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,344) scale(1,-1)">900</text>
+			<text x="0" y="153" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,306) scale(1,-1)">Платформа и CI/CD</text>
+			<rect x="190" y="147" width="112.5" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="307.5" y="151" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,302) scale(1,-1)">1 000</text>
+			<text x="0" y="132" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,264) scale(1,-1)">CMS и модель контента</text>
+			<rect x="190" y="126" width="247.5" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="442.5" y="130" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,260) scale(1,-1)">2 200</text>
+			<text x="0" y="111" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,222) scale(1,-1)">Публичный интерфейс</text>
+			<rect x="190" y="105" width="213.75" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="408.75" y="109" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,218) scale(1,-1)">1 900</text>
+			<text x="0" y="90" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,180) scale(1,-1)">Поиск, SEO и интеграции</text>
+			<rect x="190" y="84" width="112.5" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="307.5" y="88" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,176) scale(1,-1)">1 000</text>
+			<text x="0" y="69" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,138) scale(1,-1)">Администрирование и загрузка данных</text>
+			<rect x="190" y="63" width="67.5" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="262.5" y="67" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,134) scale(1,-1)">600</text>
+			<text x="0" y="48" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,96) scale(1,-1)">QA, безопасность и приёмка</text>
+			<rect x="190" y="42" width="168.75" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="363.75" y="46" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,92) scale(1,-1)">1 500</text>
+			<text x="0" y="27" style="font-family: YT; font-size: 7.3px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,54) scale(1,-1)">Управление, документация и релизы</text>
+			<rect x="190" y="21" width="101.25" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="296.25" y="25" style="font-family: YT-Bold; font-size: 7.5px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,50) scale(1,-1)">900</text>
+		</g>
+	</g>
+</svg>

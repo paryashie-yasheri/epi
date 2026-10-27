@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="215" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 215" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="215"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-215)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="202" style="font-family: YT-Bold; font-size: 10px;fill: rgb(9%,16%,30%); stroke:none;" transform="translate(0,404) scale(1,-1)">Sprint 01: остаток оценки по состоянию задач</text>
+			<path d="M 55,35 L 470,35 Z" style="stroke: rgb(38%,45%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 55,35 L 55,175 Z" style="stroke: rgb(38%,45%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 55,35 L 470,35 Z" style="stroke: rgb(87%,89%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="8" y="32.0" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,64) scale(1,-1)">0 ч</text>
+			<path d="M 55,81.666667 L 470,81.666667 Z" style="stroke: rgb(87%,89%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="8" y="78.66666666666666" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,157) scale(1,-1)">300 ч</text>
+			<path d="M 55,128.333333 L 470,128.333333 Z" style="stroke: rgb(87%,89%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="8" y="125.33333333333331" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,250) scale(1,-1)">600 ч</text>
+			<path d="M 55,175 L 470,175 Z" style="stroke: rgb(87%,89%,92%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="8" y="172.0" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,344) scale(1,-1)">900 ч</text>
+			<text x="55" y="19" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,38) scale(1,-1)">Старт: 3 задачи</text>
+			<text x="392" y="19" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,38) scale(1,-1)">Снимок: 27.10.2026</text>
+			<path d="M 55,175 L 470,35 Z" style="stroke: rgb(90%,65%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 55,175 L 100,81.666667 Z" style="stroke: rgb(18%,43%,92%); stroke-linecap: butt; stroke-width: 2.4;"/>
+			<path d="M 100,81.666667 L 470,81.666667 Z" style="stroke: rgb(18%,43%,92%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<circle cx="100" cy="81.66666666666666" r="4" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="108" y="86.66666666666666" style="font-family: YT-Bold; font-size: 7.4px;fill: rgb(18%,43%,92%); stroke:none;" transform="translate(0,173) scale(1,-1)">300 ч осталось</text>
+			<path d="M 295,190 L 310,190 Z" style="stroke: rgb(90%,65%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="314" y="187" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,374) scale(1,-1)">идеальный burndown</text>
+			<path d="M 295,177 L 310,177 Z" style="stroke: rgb(18%,43%,92%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="314" y="174" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,348) scale(1,-1)">по статусам задач</text>
+		</g>
+	</g>
+</svg>
