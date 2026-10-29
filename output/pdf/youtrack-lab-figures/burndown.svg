@@ -24,9 +24,9 @@
 			<text x="55" y="19" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,38) scale(1,-1)">Старт: 3 задачи</text>
 			<text x="370" y="19" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,38) scale(1,-1)">Конец S01: 09.11.2026</text>
 			<path d="M 55,175 L 470,35 Z" style="stroke: rgb(90%,65%,0%); stroke-linecap: butt; stroke-width: 2;"/>
-			<path d="M 55,175 L 100,81.666667 Z" style="stroke: rgb(18%,43%,92%); stroke-linecap: butt; stroke-width: 2.4;"/>
-			<circle cx="100" cy="81.66666666666666" r="4" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
-			<text x="108" y="86.66666666666666" style="font-family: YT-Bold; font-size: 7.4px;fill: rgb(18%,43%,92%); stroke:none;" transform="translate(0,173) scale(1,-1)">300 ч на срезе 27.10.2026</text>
+			<path d="M 55,175 L 119,81.666667 Z" style="stroke: rgb(18%,43%,92%); stroke-linecap: butt; stroke-width: 2.4;"/>
+			<circle cx="119" cy="81.66666666666666" r="4" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,43%,92%); fill-rule: evenodd;"/>
+			<text x="127" y="86.66666666666666" style="font-family: YT-Bold; font-size: 7.4px;fill: rgb(18%,43%,92%); stroke:none;" transform="translate(0,173) scale(1,-1)">300 ч на срезе 29.10.2026</text>
 			<path d="M 295,190 L 310,190 Z" style="stroke: rgb(90%,65%,0%); stroke-linecap: butt; stroke-width: 2;"/>
 			<text x="314" y="187" style="font-family: YT; font-size: 7px;fill: rgb(38%,45%,54%); stroke:none;" transform="translate(0,374) scale(1,-1)">идеальный burndown</text>
 			<path d="M 295,177 L 310,177 Z" style="stroke: rgb(18%,43%,92%); stroke-linecap: butt; stroke-width: 2;"/>
